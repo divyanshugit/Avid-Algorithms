@@ -1,4 +1,4 @@
-## Step 1 Fork this repository
+## Step 1 Fork and Star this repository
 You can fork this repository by clicking on fork button on top right corner. Once you fork this will create a copy of repo on your account
 
 ## Step 2 Clone the repository 
