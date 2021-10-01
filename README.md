@@ -12,6 +12,8 @@ Directory structure
     │
     ├── Interview Practice  <-- Contains coding interview question(execpt questions from LeetCode)
     │
+    ├── ML Algorithms       <-- ML Algorithms from Scratch
+    │
     ├── Leetcode            <-- Contains questions from leetcode
     │
     ├── Patterns            <-- Codes for various type of patterns
