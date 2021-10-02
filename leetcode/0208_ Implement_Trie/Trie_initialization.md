@@ -1,4 +1,4 @@
-The procedure for initializing this data strucutre would be as follows.
+The procedure for initializing this data structure would be as follows.
 #### Explanation
 Trie trie = new Trie(); <br />
 trie.insert("apple"); <br />
